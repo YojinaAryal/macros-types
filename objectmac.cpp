@@ -15,5 +15,6 @@ int main()
         arr[i]=i+1;
         cout<<arr[i]<<endl;
     }
+    
     return 0;
 }
